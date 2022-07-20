@@ -1,0 +1,14 @@
+# Ignore binaries
+bin/
+*.exe
+*.exe~
+netoverlap
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# vscode IDE specific
+.vscode
