@@ -1,5 +1,12 @@
 # NetOverlap
 
+[![Build Status](https://github.com/jeamon/netoverlap/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/jeamon/netoverlap/actions)
+[![godoc](https://godoc.org/github.com/jeamon/netoverlap?status.svg)](https://godoc.org/github.com/jeamon/netoverlap)
+[![Go Report Card](https://goreportcard.com/badge/github.com/jeamon/netoverlap)](https://goreportcard.com/report/github.com/jeamon/netoverlap)
+[![codecov](https://codecov.io/gh/jeamon/netoverlap/graph/badge.svg?token=B1VKRNZ7D5)](https://codecov.io/gh/jeamon/netoverlap)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/jeamon/netoverlap)
+[![MIT License](https://img.shields.io/github/license/jeamon/netoverlap)](https://github.com/jeamon/netoverlap/blob/master/LICENSE)
+
 Go-based CLI utility that prints to standart output the relation between two network prefixes provided into CIDR format.
 
 
